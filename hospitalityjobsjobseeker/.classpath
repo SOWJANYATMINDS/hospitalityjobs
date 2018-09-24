@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/version 2.1/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/selenium-java-3.14.0/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/aether-api-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/aether-impl-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/aether-spi-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/aether-util-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/jsr305-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-aether-provider-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-artifact-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-core-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-filtering-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-model-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-model-builder-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-plugin-api-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-repository-metadata-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-resources-plugin-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-settings-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-settings-builder-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/maven-shared-utils-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/plexus-build-api-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/plexus-cipher-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/plexus-classworlds-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/plexus-component-annotations-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/plexus-interpolation-1.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/plexus-sec-dispatcher-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/plexus-utils-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/sisu-guice-2.1.7-noaop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/sisu-inject-bean-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ethreyas Admin/Downloads/jar_files/sisu-inject-plexus-1.4.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
